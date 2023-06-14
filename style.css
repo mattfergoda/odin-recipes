@@ -2,12 +2,23 @@
   font-family: 'Courier New', Courier, monospace;
 }
 
-h1 {
+.recipes {
+  width: 400px;
+  margin: 16px auto;
+  padding: 8px;
+}
+
+.list{
+  background: lavender;
+  padding: 2px 4px;
+}
+
+.title {
   text-align: center;
   color: white;
   background-color: purple;
 }
 
-li {
+.recipe {
   font-size: 18px;
 }
